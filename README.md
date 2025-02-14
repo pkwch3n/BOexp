@@ -1,6 +1,8 @@
 # BOexp
 Privilege escalation using Backup Operators group to gain Domain Controller access.
 
+code: .net 6
+
 backup operator 组用户特权利用获取域控相关凭据存储到域控目录
 
 use:
